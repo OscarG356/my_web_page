@@ -20,3 +20,5 @@
 18. git add .
 19. git commit -m "Se añaden estilos en aboutme.html y se añaden las redes sociales"
 20. git revert df944f235493bd512c62dae9176e617ae622999e
+21. git checkout main
+22. git merge new_features
