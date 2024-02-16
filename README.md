@@ -10,3 +10,7 @@
 8.  git status
 9. git add .
 10. git commit -m "Se crea el archivo aboutme.css dentro de la carpeta styles"
+11. git status
+12. git add .
+13. git commit -m "Se añade información relevante en aboutme.html"
+14. 
