@@ -10,6 +10,7 @@
 8.  git status
 9. git add .
 10. git commit -m "Se crea el archivo aboutme.css dentro de la carpeta styles"
+<<<<<<< HEAD
 11. git status
 12. git add .
 13. git commit -m "Se añade información relevante en aboutme.html"
@@ -19,3 +20,5 @@
 17. git status
 18. git add .
 19. git commit -m "Se añaden estilos en aboutme.html y se añaden las redes sociales"
+=======
+>>>>>>> parent of df944f2 (Se crea un index.html)
