@@ -13,4 +13,9 @@
 11. git status
 12. git add .
 13. git commit -m "Se añade información relevante en aboutme.html"
-14. 
+14. git status
+15. git add .
+16. git commit -m "Se crea un index.html"
+17. git status
+18. git add .
+19. git commit -m "Se añaden estilos en aboutme.html y se añaden las redes sociales"
